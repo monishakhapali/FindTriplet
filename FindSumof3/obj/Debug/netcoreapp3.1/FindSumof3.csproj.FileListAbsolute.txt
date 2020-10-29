@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\FindSumof3\FindSumof3\bin\Debug\netcoreapp3.1\FindSumof3.exe
+C:\Users\monisha.khapali\source\repos\FindSumof3\FindSumof3\bin\Debug\netcoreapp3.1\FindSumof3.deps.json
+C:\Users\monisha.khapali\source\repos\FindSumof3\FindSumof3\bin\Debug\netcoreapp3.1\FindSumof3.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\FindSumof3\FindSumof3\bin\Debug\netcoreapp3.1\FindSumof3.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\FindSumof3\FindSumof3\bin\Debug\netcoreapp3.1\FindSumof3.dll
+C:\Users\monisha.khapali\source\repos\FindSumof3\FindSumof3\bin\Debug\netcoreapp3.1\FindSumof3.pdb
+C:\Users\monisha.khapali\source\repos\FindSumof3\FindSumof3\obj\Debug\netcoreapp3.1\FindSumof3.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\FindSumof3\FindSumof3\obj\Debug\netcoreapp3.1\FindSumof3.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\FindSumof3\FindSumof3\obj\Debug\netcoreapp3.1\FindSumof3.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\FindSumof3\FindSumof3\obj\Debug\netcoreapp3.1\FindSumof3.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\FindSumof3\FindSumof3\obj\Debug\netcoreapp3.1\FindSumof3.dll
+C:\Users\monisha.khapali\source\repos\FindSumof3\FindSumof3\obj\Debug\netcoreapp3.1\FindSumof3.pdb
+C:\Users\monisha.khapali\source\repos\FindSumof3\FindSumof3\obj\Debug\netcoreapp3.1\FindSumof3.genruntimeconfig.cache
